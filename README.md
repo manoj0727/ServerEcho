@@ -3,7 +3,7 @@
 A social networking platform with automated content moderation and context-based authentication system — built with **Vibe Coding Cursor** and powered by a modern MERN stack.
 
 
----
+
 
 ## 📌 Table of Contents
 
